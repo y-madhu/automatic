@@ -1,0 +1,24 @@
+Test Name,Results,Units,Bio. Ref. Interval
+"HEMOGRAM (Flow Cytometery, SLS, Capillary Photometry )",,,
+Hemoglobin,11.00,g/dL,11.50 15.00
+Packed Cell Volume (PCV),40.00,%,36.00 46.00
+RBC Count,3.90,mill/mm3,3.80 4.80
+MCV,80.00,fL,80.00 100.00
+MCH,30.00,pg,27.00 32.00
+MCHC,33.00,g/dL,32.00 35.00
+Red Cell Distribution Width (RDW),11.00,%,11.50 14.50
+Total Leukocyte Count (TLC),8.90,thou/mm3,4.00 10.00
+Differential Leucocyte Count (DLC),,,
+Segmented Neutrophils,69.50,%,40.00 80.00
+Lymphocytes,20.50,%,20.00 40.00
+Monocytes,8.10,%,2.00 10.00
+Eosinophils,1.80,%,1.00 6.00
+Basophils,0.10,%,<2.00
+Absolute Leucocyte Count,,,
+Neutrophils,6.19,thou/mm3,2.00 7.00
+Lymphocytes,1.82,thou/mm3,1.00 3.00
+Monocytes,0.72,thou/mm3,0.20 1.00
+Eosinophils,0.16,thou/mm3,0.02 0.50
+Basophils,0.01,thou/mm3,0.01 0.10
+Platelet Count,190.0,thou/mm3,150.00 450.00
+ESR,10,mm/hr,0 20
